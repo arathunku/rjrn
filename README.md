@@ -25,9 +25,9 @@ There is some debug statements in the program. If you'd like to see them, please
 
 # To do:
 
-[ ] Trello handler for notes
-[ ] Refactor how config handles trait for other journal types (right now it's hardcoded file journal)
-[ ] Add tests for adding notes
+  - [ ] Trello handler for notes
+  - [ ] Refactor how config handles trait for other journal types (right now it's hardcoded file journal)
+  - [ ] Add tests for adding notes
 
 
 # Notes
