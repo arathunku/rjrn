@@ -1,0 +1,11 @@
+[package]
+name = "rjrn"
+version = "0.1.0"
+authors = ["michal <arathunku@gmail.com>"]
+
+[dependencies]
+docopt = "0.6"
+rustc-serialize = "0.3"
+chrono = "0.2"
+uuid = "0.1.18"
+log = "*"
